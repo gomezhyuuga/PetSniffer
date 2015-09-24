@@ -1,0 +1,89 @@
+/*body {
+  background-color: #f2f2f2;
+}
+
+#ads, #content, #sidebar {
+  background-color: #FFF;
+}*/
+
+.wrapper {
+  border: 1px solid #999999;
+  border-radius: 2px;
+  padding: 4em 6em;
+  margin-top: 4em;
+}
+
+#signup-page .form-actions:first-child {
+  margin-right: 20px;
+}
+
+#signup-page h1, #signup-page h2 {
+  text-align: center;
+}
+
+#signup-page #pet-avatar {
+  margin-bottom: 1em;
+}
+
+#share-actions textarea {
+  margin-bottom: 4px;
+}
+
+#ads .header {
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.ad {
+  border: 1px solid #999;
+  padding: 0.5em;
+  border-radius: 2px;
+  margin-bottom: 1em;
+}
+.ad h4 {
+  font-size: 14px;
+  margin-top: 4px;
+}
+.ad p {
+  font-size: 12px;
+  color: #666666;
+  margin-bottom: 0px;
+}
+
+.pet.row {
+  margin-bottom: 1em;
+}
+
+button.publish {
+  margin-top: 4px;
+}
+
+.timeline-item {
+  border: 1px solid #999;
+  border-radius: 2px;
+  box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.timeline-item .header p {
+  margin-bottom: 0px;
+}
+.timeline-item .light {
+  color: #ccc;
+  font-style: italic;
+}
+
+#pet-page #pet-header {
+  margin-top: 4em;
+  margin-bottom: 2em;
+}
+
+.pet-actions {
+  padding-top: 4em;
+}
+
+.photo-gallery img {
+  margin: 2px;
+}
+
+/* HELPERS */
+.center { text-align: center; }
